@@ -1,5 +1,5 @@
 <!--- https://github.com/krakxn/ -->
-<img src="https://github.com/krakxn/krakxn/blob/main/cover.png" alt="Hey you! Have a wonderful day! <3">
+<img src="https://raw.githubusercontent.com/krakxn/krakxn/main/res/cover.png" alt="Hey you! Have a wonderful day! <3">
 <!-- <h1 align="center";>Hey you! Have a wonderful day! <3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> -->
 
 
